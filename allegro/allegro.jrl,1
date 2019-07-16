@@ -1,0 +1,64 @@
+\t (00:00:07) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:07)     Journal start - Tue Jul 16 17:32:33 2019
+\t (00:00:07)         Host=USER-PC User=user Pid=6644 CPUs=4
+\t (00:00:07) CmdLine= C:\Users\user\Desktop\vscode_orcad\cdns\cdns\tools\pcb\bin\allegro.exe -orcad -mpssession user C:\USERS\USER\DESKTOP\WORKSPACE\PCD_LIB\allegro\PCB_LIB.brd
+\t (00:00:07) 
+   (00:00:07) ilinit Start.
+   (00:00:07) "C:/Users/user/Desktop/vscode_orcad/home/pcbenv"
+\t (00:00:08) Opening existing design...
+\d (00:00:08) Design opened: C:/USERS/USER/DESKTOP/WORKSPACE/PCD_LIB/allegro/PCB_LIB.brd
+\i (00:00:09) trapsize 12889
+\i (00:00:09) trapsize 12602
+\i (00:00:09) trapsize 12938
+\i (00:00:10) trapsize 11111
+\i (00:00:10) trapsize 17628
+\i (00:00:10) generaledit 
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 12692.31 6875.00
+\i (00:00:13) trapsize 17628
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 12692.31 6875.00
+\i (00:00:13) trapsize 17628
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 12692.31 6875.00
+\i (00:00:13) trapsize 17628
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 12692.31 6875.00
+\i (00:00:13) trapsize 17628
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 12692.31 6557.69
+\i (00:00:13) trapsize 17628
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 12798.08 6240.38
+\i (00:00:13) trapsize 17628
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 12833.33 6205.13
+\i (00:00:13) trapsize 17628
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 12833.33 6064.10
+\i (00:00:13) trapsize 17628
+\i (00:00:34) place manual 
+\i (00:00:35) setwindow form.plc_manual
+\i (00:00:35) FORM plc_manual advanced_settings  
+\i (00:00:37) FORM plc_manual library YES 
+\i (00:00:38) FORM plc_manual placement_list  
+\i (00:00:40) FORM plc_manual categories Package symbols 
+\i (00:00:44) FORM plc_manual tree  ATMEGA328 'Package symbols' 
+\i (00:00:45) FORM plc_manual tree 'MULTISEL YES' ATMEGA328 'Package symbols' 
+\w (00:00:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:47) FORM plc_manual categories Components by refdes 
+\i (00:00:49) FORM plc_manual cancel  
+\i (00:00:49) setwindow pcb
+\i (00:00:49) generaledit 
+\i (00:00:51) exit 
+\e (00:00:51) Do you want to save the changes you made to PCB_LIB.brd?
+\i (00:00:53) fillin no 
+\t (00:00:53)     Journal end - Tue Jul 16 17:33:19 2019

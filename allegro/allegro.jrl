@@ -1,0 +1,69 @@
+\t (00:00:02) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:02)     Journal start - Tue Jul 16 17:33:37 2019
+\t (00:00:02)         Host=USER-PC User=user Pid=7596 CPUs=4
+\t (00:00:02) CmdLine= C:\Users\user\Desktop\vscode_orcad\cdns\cdns\tools\pcb\bin\allegro.exe -orcad -mpssession user C:\USERS\USER\DESKTOP\WORKSPACE\PCD_LIB\allegro\PCB_LIB.brd
+\t (00:00:02) 
+   (00:00:02) ilinit Start.
+   (00:00:02) "C:/Users/user/Desktop/vscode_orcad/home/pcbenv"
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Design opened: C:/USERS/USER/DESKTOP/WORKSPACE/PCD_LIB/allegro/PCB_LIB.brd
+\i (00:00:05) trapsize 12889
+\i (00:00:05) trapsize 12602
+\i (00:00:05) trapsize 12938
+\i (00:00:05) trapsize 11111
+\i (00:00:05) trapsize 17628
+\i (00:00:06) generaledit 
+\i (00:00:08) place manual 
+\i (00:00:09) setwindow form.plc_manual
+\i (00:00:09) FORM plc_manual tree 'MULTISEL YES' IC1 'Components by refdes' 
+\w (00:00:09) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:09) Placing IC1 / ATMEGA168-TQ32_0_ATMEGA328_ATME / ATMEGA328 on Top.
+\i (00:00:09) FORM plc_manual tree  IC1 'Components by refdes' 
+\i (00:00:10) FORM plc_manual tree 'MULTISEL YES' IC2 'Components by refdes' 
+\i (00:00:10) FORM plc_manual tree  IC2 'Components by refdes' 
+\i (00:00:11) FORM plc_manual hide  
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 13080.13 14278.85
+\i (00:00:12) trapsize 8814
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 13150.65 14278.85
+\i (00:00:12) trapsize 4407
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 13194.72 14331.74
+\i (00:00:13) trapsize 2204
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 13194.72 14331.74
+\i (00:00:13) trapsize 1102
+\i (00:00:13) pick grid 13194.72 14331.74
+\t (00:00:13) last pick:  13200.00 14300.00
+\w (00:00:13) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:13) Placing IC2 / ATMEGA168-TQ32_0_TQFP32_ATMEGA1 / TQFP32 on Top.
+\i (00:00:14) pick grid 14054.09 14234.78
+\t (00:00:14) last pick:  14100.00 14200.00
+\i (00:02:59) pick grid 14129.01 14214.95
+\t (00:02:59) last pick:  14100.00 14200.00
+\t (00:02:59) Moving IC2 / ATMEGA168-TQ32_0_TQFP32_ATMEGA1 / TQFP32.
+\t (00:02:59) last pick:  14100.00 14200.00
+\i (00:03:00) pick grid 13690.51 14342.76
+\t (00:03:00) last pick:  13700.00 14300.00
+\i (00:03:10) pick grid 12837.75 14646.84
+\t (00:03:10) last pick:  12800.00 14600.00
+\i (00:04:08) pick grid 12820.12 14715.15
+\t (00:04:08) last pick:  12800.00 14700.00
+\i (00:04:56) pick grid 12747.40 14677.69
+\t (00:04:56) last pick:  12700.00 14700.00
+\i (00:05:15) pick grid 15188.91 14265.63
+\t (00:05:15) last pick:  15200.00 14300.00
+\i (00:06:00) pick grid 13952.73 13738.99
+\t (00:06:00) last pick:  14000.00 13700.00
+\i (00:06:03) pick grid 12939.11 14688.71
+\t (00:06:03) last pick:  12900.00 14700.00
+\i (00:06:06) exit 
+\e (00:06:06) Do you want to save the changes you made to PCB_LIB.brd?
+\i (00:06:16) fillin yes 
+\t (00:06:17)     Journal end - Tue Jul 16 17:39:51 2019

@@ -1,0 +1,22 @@
+{ Using PSTWRITER 16.6.0 d001Jul-16-2019 at 17:33:31 }
+
+#1 WARNING(ORCAP-36006): Part Name "ATMEGA168-TQ32_0_ATMEGA328_ATMEGA168-TQ32" is renamed to "ATMEGA168-TQ32_0_ATMEGA328_ATME".
+#2 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#3" as visible power pin of same name already exists in Package ATmega168-TQ32_0 , IC1: SCHEMATIC1, PAGE1 (1.90, 1.30).
+#3 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#4" as visible power pin of same name already exists in Package ATmega168-TQ32_0 , IC1: SCHEMATIC1, PAGE1 (1.90, 1.30).
+#4 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#6" as visible power pin of same name already exists in Package ATmega168-TQ32_0 , IC1: SCHEMATIC1, PAGE1 (1.90, 1.30).
+#5 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#5" as visible power pin of same name already exists in Package ATmega168-TQ32_0 , IC1: SCHEMATIC1, PAGE1 (1.90, 1.30).
+#6 WARNING(ORCAP-36006): Part Name "ATMEGA168-TQ32_0_TQFP32_ATMEGA168-TQ32" is renamed to "ATMEGA168-TQ32_0_TQFP32_ATMEGA1".
+#7 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#3" as visible power pin of same name already exists in Package ATmega168-TQ32_0 , IC2: SCHEMATIC1, PAGE1 (4.30, 1.30).
+#8 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#4" as visible power pin of same name already exists in Package ATmega168-TQ32_0 , IC2: SCHEMATIC1, PAGE1 (4.30, 1.30).
+#9 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#6" as visible power pin of same name already exists in Package ATmega168-TQ32_0 , IC2: SCHEMATIC1, PAGE1 (4.30, 1.30).
+#10 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#5" as visible power pin of same name already exists in Package ATmega168-TQ32_0 , IC2: SCHEMATIC1, PAGE1 (4.30, 1.30).
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\USERS\USER\DESKTOP\WORKSPACE\PCD_LIB\allegro/pstchip.dat
+
+Loading... C:\USERS\USER\DESKTOP\WORKSPACE\PCD_LIB\allegro/pstchip.dat
+
+Loading... C:\USERS\USER\DESKTOP\WORKSPACE\PCD_LIB\allegro/pstxprt.dat
+
+Loading... C:\USERS\USER\DESKTOP\WORKSPACE\PCD_LIB\allegro/pstxnet.dat
+packaging the design view...
